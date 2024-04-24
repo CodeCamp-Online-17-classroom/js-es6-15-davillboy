@@ -11,3 +11,4 @@ let planetFacts = {
 let { numPlanets, ...discoveryYears } = planetFacts;
 console.log(discoveryYears); // *
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
